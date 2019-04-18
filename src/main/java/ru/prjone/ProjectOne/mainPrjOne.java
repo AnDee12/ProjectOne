@@ -7,5 +7,7 @@ public class mainPrjOne {
 
         System.out.println("Run main23");
 
+        System.out.println("Run main245");
+
     }
 }
